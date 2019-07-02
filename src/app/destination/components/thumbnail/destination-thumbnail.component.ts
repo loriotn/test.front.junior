@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { IDestination } from '../../destination.model';
+import { IDestination } from '../../models/destination.model';
 
 @Component({
 	selector: 'app-destination-thumbnail',
